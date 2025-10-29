@@ -7,6 +7,9 @@ hi
 ```javascript
 Hello
 ```
+- [x] ezras costume
+- [ ] kitty litter
+- [ ] dishes
 
 
 https://drive.google.com/file/d/1uU0M6IyIl2x-uNKJjMfsTnZ6_anEQsUW/view?usp=sharing
@@ -38,8 +41,5 @@ https://drive.google.com/file/d/1uU0M6IyIl2x-uNKJjMfsTnZ6_anEQsUW/view?usp=shari
 
 
 
-
-
-Practicing, and messing around with different headers.
 
 
